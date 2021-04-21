@@ -1,0 +1,134 @@
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.CLIENTES.BusClient.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.Clientes.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.COMPRAS.Compras.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.Inventario.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.BuscProducto.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.Materiales.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.Productos.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.Login.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.Principal.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.Proveedores.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.SplashScreen.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.Usuarios.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.Ventas.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.Properties.Resources.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.exe
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.pdb
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\bin\Debug\ProyectoInte.exe.config
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\bin\Debug\ProyectoInte.exe
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\bin\Debug\ProyectoInte.pdb
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\bin\Debug\CapaDeDatos.dll
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\bin\Debug\CapaDeDatos.pdb
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.PROVEEDORES.BuscProvee.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.COMPRAS.Compras.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.Login.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.Principal.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.SplashScreen.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.Properties.Resources.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.exe
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.pdb
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\ProyectoInte.exe.config
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\ProyectoInte.exe
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\ProyectoInte.pdb
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\CapaDeDatos.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\CapaDeDatos.pdb
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.FrmRegistrarClientes.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.FrmInventario.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.FrmRegistarProveedores.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.FrmRegistrarUsuario.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.FrmRegistrarVenta.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.FrmListadoProducto.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.FrmRegistrarMaterial.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.FrmRegistrarProducto.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.PROVEEDORES.FrmListadoProveedores.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.CLIENTES.FrmListadoCliente.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.FrmListadoMateriales.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\ProyectoInte.exe.config
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\ProyectoInte.exe
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\ProyectoInte.pdb
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\CapaDeDatos.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\CapaDeDatos.pdb
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.CLIENTES.FrmListadoCliente.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.FrmRegistrarClientes.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.COMPRAS.Compras.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.FrmInventario.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.FrmListadoMateriales.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.FrmListadoProducto.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.FrmRegistrarMaterial.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.FrmRegistrarProducto.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.Login.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.Principal.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.FrmRegistarProveedores.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.PROVEEDORES.FrmListadoProveedores.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.SplashScreen.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.FrmRegistrarUsuario.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.FrmRegistrarVenta.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.Properties.Resources.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.exe
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.pdb
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.FrmFabricacion.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.FrmFabricacion.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.FrmRegistrarCategoria.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.CLIENTES.FrmPagarCredito.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.CLIENTES.ReporteListadoClientes.FrmReporteListadoClientes.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.PROVEEDORES.ReporteListadoProoveedores.FrmReporteListadoProveedores.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.CLIENTES.FrmPagarCredito.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.CLIENTES.ReporteListadoClientes.FrmReporteListadoClientes.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.INVENTARIO.FrmRegistrarCategoria.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.PROVEEDORES.ReporteListadoProoveedores.FrmReporteListadoProveedores.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.MenuReportes.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.ReporteZapatosMasVendidos.FrmReporteZapatosMasVendidos.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.ReporteZapatosMasVendidos.FrmSeleccionarFechasParaReporte.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.ReporteZapatosMenosVendidos.FrmReporteZapatosMenosVendidos.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.ProductosConPocasExistencias.FrmReporteProductosAgotados.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.ReporteTop5ClientesFieles.FrmReporteTop5ClientesQueMasCompran.resources
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.ReporteTop5ClientesQueMenosCompran.FrmReporteClientesQueMenosCompran.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.MenuReportes.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.ProductosConPocasExistencias.FrmReporteProductosAgotados.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.ReporteTop5ClientesFieles.FrmReporteTop5ClientesQueMasCompran.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.ReporteTop5ClientesQueMenosCompran.FrmReporteClientesQueMenosCompran.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.ReporteZapatosMasVendidos.FrmReporteZapatosMasVendidos.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.ReporteZapatosMasVendidos.FrmSeleccionarFechasParaReporte.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\ProyectoInte.GUI.ListadoDeReportes.ReporteZapatosMenosVendidos.FrmReporteZapatosMenosVendidos.resources
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaPresentacion\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,564 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E82E87AA-436D-4189-9A67-FFAB1F3E2792}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoInte</RootNamespace>
+    <AssemblyName>ProyectoInte</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUI\CLIENTES\FrmListadoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\CLIENTES\FrmListadoCliente.Designer.cs">
+      <DependentUpon>FrmListadoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\CLIENTES\FrmPagarCredito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\CLIENTES\FrmPagarCredito.Designer.cs">
+      <DependentUpon>FrmPagarCredito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\CLIENTES\FrmRegistrarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\CLIENTES\FrmRegistrarClientes.Designer.cs">
+      <DependentUpon>FrmRegistrarClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\CLIENTES\ReporteListadoClientes\FrmReporteListadoClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\CLIENTES\ReporteListadoClientes\FrmReporteListadoClientes.Designer.cs">
+      <DependentUpon>FrmReporteListadoClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\CLIENTES\ReporteListadoClientes\ReporteListadoClientes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteListadoClientes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmFabricacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmFabricacion.Designer.cs">
+      <DependentUpon>FrmFabricacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmRegistrarCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmRegistrarCompra.Designer.cs">
+      <DependentUpon>FrmRegistrarCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmInventario.Designer.cs">
+      <DependentUpon>FrmInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmListadoMateriales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmListadoMateriales.Designer.cs">
+      <DependentUpon>FrmListadoMateriales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmListadoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmListadoProducto.Designer.cs">
+      <DependentUpon>FrmListadoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmRegistrarCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmRegistrarCategoria.Designer.cs">
+      <DependentUpon>FrmRegistrarCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmRegistrarMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmRegistrarMaterial.Designer.cs">
+      <DependentUpon>FrmRegistrarMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmRegistrarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\INVENTARIO\FrmRegistrarProducto.Designer.cs">
+      <DependentUpon>FrmRegistrarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\MenuReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\MenuReportes.Designer.cs">
+      <DependentUpon>MenuReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ProductosConPocasExistencias\FrmReporteProductosAgotados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ProductosConPocasExistencias\FrmReporteProductosAgotados.Designer.cs">
+      <DependentUpon>FrmReporteProductosAgotados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ProductosConPocasExistencias\ReportePocasExistenciasProductos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportePocasExistenciasProductos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ReporteTop5ClientesFieles\FrmReporteTop5ClientesQueMasCompran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ReporteTop5ClientesFieles\FrmReporteTop5ClientesQueMasCompran.Designer.cs">
+      <DependentUpon>FrmReporteTop5ClientesQueMasCompran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ReporteTop5ClientesFieles\ReporteTop5ClientesFieles.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteTop5ClientesFieles.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ReporteTop5ClientesQueMenosCompran\FrmReporteClientesQueMenosCompran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ReporteTop5ClientesQueMenosCompran\FrmReporteClientesQueMenosCompran.Designer.cs">
+      <DependentUpon>FrmReporteClientesQueMenosCompran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ReporteTop5ClientesQueMenosCompran\ReporteTop5ClientesQueMenosCompran.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteTop5ClientesQueMenosCompran.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ReporteZapatosMasVendidos\FrmReporteZapatosMasVendidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ReporteZapatosMasVendidos\FrmReporteZapatosMasVendidos.Designer.cs">
+      <DependentUpon>FrmReporteZapatosMasVendidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\FrmSeleccionarFechasParaReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\FrmSeleccionarFechasParaReporte.Designer.cs">
+      <DependentUpon>FrmSeleccionarFechasParaReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ReporteZapatosMasVendidos\ReporteZapatosMasVendidos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteZapatosMasVendidos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ReporteZapatosMenosVendidos\FrmReporteZapatosMenosVendidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ReporteZapatosMenosVendidos\FrmReporteZapatosMenosVendidos.Designer.cs">
+      <DependentUpon>FrmReporteZapatosMenosVendidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ListadoDeReportes\ReporteZapatosMenosVendidos\ReporteZapatosMenosVendidos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteZapatosMenosVendidos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\PROVEEDORES\FrmRegistarProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\PROVEEDORES\FrmRegistarProveedores.Designer.cs">
+      <DependentUpon>FrmRegistarProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\PROVEEDORES\FrmListadoProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\PROVEEDORES\FrmListadoProveedores.Designer.cs">
+      <DependentUpon>FrmListadoProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\PROVEEDORES\ReporteListadoProoveedores\FrmReporteListadoProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\PROVEEDORES\ReporteListadoProoveedores\FrmReporteListadoProveedores.Designer.cs">
+      <DependentUpon>FrmReporteListadoProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\PROVEEDORES\ReporteListadoProoveedores\ReporteListadoProveedores.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteListadoProveedores.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmRegistrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmRegistrarUsuario.Designer.cs">
+      <DependentUpon>FrmRegistrarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmRegistrarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmRegistrarVenta.Designer.cs">
+      <DependentUpon>FrmRegistrarVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\CLIENTES\FrmListadoCliente.resx">
+      <DependentUpon>FrmListadoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\CLIENTES\FrmPagarCredito.resx">
+      <DependentUpon>FrmPagarCredito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\CLIENTES\FrmRegistrarClientes.resx">
+      <DependentUpon>FrmRegistrarClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\CLIENTES\ReporteListadoClientes\FrmReporteListadoClientes.resx">
+      <DependentUpon>FrmReporteListadoClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\CLIENTES\ReporteListadoClientes\ReporteListadoClientes.rdlc" />
+    <EmbeddedResource Include="GUI\INVENTARIO\FrmFabricacion.resx">
+      <DependentUpon>FrmFabricacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmRegistrarCompra.resx">
+      <DependentUpon>FrmRegistrarCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\INVENTARIO\FrmInventario.resx">
+      <DependentUpon>FrmInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\INVENTARIO\FrmListadoMateriales.resx">
+      <DependentUpon>FrmListadoMateriales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\INVENTARIO\FrmListadoProducto.resx">
+      <DependentUpon>FrmListadoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\INVENTARIO\FrmRegistrarCategoria.resx">
+      <DependentUpon>FrmRegistrarCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\INVENTARIO\FrmRegistrarMaterial.resx">
+      <DependentUpon>FrmRegistrarMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\INVENTARIO\FrmRegistrarProducto.resx">
+      <DependentUpon>FrmRegistrarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ListadoDeReportes\MenuReportes.resx">
+      <DependentUpon>MenuReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ListadoDeReportes\ProductosConPocasExistencias\FrmReporteProductosAgotados.resx">
+      <DependentUpon>FrmReporteProductosAgotados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ListadoDeReportes\ProductosConPocasExistencias\Report3ProductosAgotados.rdlc" />
+    <EmbeddedResource Include="GUI\ListadoDeReportes\ReporteTop5ClientesFieles\FrmReporteTop5ClientesQueMasCompran.resx">
+      <DependentUpon>FrmReporteTop5ClientesQueMasCompran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ListadoDeReportes\ReporteTop5ClientesFieles\Report4Top5ClientesFieles.rdlc" />
+    <EmbeddedResource Include="GUI\ListadoDeReportes\ReporteTop5ClientesQueMenosCompran\FrmReporteClientesQueMenosCompran.resx">
+      <DependentUpon>FrmReporteClientesQueMenosCompran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ListadoDeReportes\ReporteTop5ClientesQueMenosCompran\Report1ClientesQueMnosCompran.rdlc" />
+    <EmbeddedResource Include="GUI\ListadoDeReportes\ReporteZapatosMasVendidos\FrmReporteZapatosMasVendidos.resx">
+      <DependentUpon>FrmReporteZapatosMasVendidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ListadoDeReportes\FrmSeleccionarFechasParaReporte.resx">
+      <DependentUpon>FrmSeleccionarFechasParaReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ListadoDeReportes\ReporteZapatosMasVendidos\Report1ZapatosMasVendidos.rdlc" />
+    <EmbeddedResource Include="GUI\ListadoDeReportes\ReporteZapatosMenosVendidos\FrmReporteZapatosMenosVendidos.resx">
+      <DependentUpon>FrmReporteZapatosMenosVendidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ListadoDeReportes\ReporteZapatosMenosVendidos\Report2ListadoZapatosMenosVendidos.rdlc" />
+    <EmbeddedResource Include="GUI\PROVEEDORES\FrmRegistarProveedores.resx">
+      <DependentUpon>FrmRegistarProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PROVEEDORES\FrmListadoProveedores.resx">
+      <DependentUpon>FrmListadoProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PROVEEDORES\ReporteListadoProoveedores\FrmReporteListadoProveedores.resx">
+      <DependentUpon>FrmReporteListadoProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PROVEEDORES\ReporteListadoProoveedores\ReportListadoProveedores.rdlc" />
+    <EmbeddedResource Include="GUI\SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmRegistrarUsuario.resx">
+      <DependentUpon>FrmRegistrarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmRegistrarVenta.resx">
+      <DependentUpon>FrmRegistrarVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="GUI\CLIENTES\ReporteListadoClientes\ReporteListadoClientes.xsc">
+      <DependentUpon>ReporteListadoClientes.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\CLIENTES\ReporteListadoClientes\ReporteListadoClientes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReporteListadoClientes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GUI\CLIENTES\ReporteListadoClientes\ReporteListadoClientes.xss">
+      <DependentUpon>ReporteListadoClientes.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ProductosConPocasExistencias\ReportePocasExistenciasProductos.xsc">
+      <DependentUpon>ReportePocasExistenciasProductos.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ProductosConPocasExistencias\ReportePocasExistenciasProductos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReportePocasExistenciasProductos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ProductosConPocasExistencias\ReportePocasExistenciasProductos.xss">
+      <DependentUpon>ReportePocasExistenciasProductos.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ReporteTop5ClientesFieles\ReporteTop5ClientesFieles.xsc">
+      <DependentUpon>ReporteTop5ClientesFieles.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ReporteTop5ClientesFieles\ReporteTop5ClientesFieles.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReporteTop5ClientesFieles.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ReporteTop5ClientesFieles\ReporteTop5ClientesFieles.xss">
+      <DependentUpon>ReporteTop5ClientesFieles.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ReporteTop5ClientesQueMenosCompran\ReporteTop5ClientesQueMenosCompran.xsc">
+      <DependentUpon>ReporteTop5ClientesQueMenosCompran.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ReporteTop5ClientesQueMenosCompran\ReporteTop5ClientesQueMenosCompran.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReporteTop5ClientesQueMenosCompran.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ReporteTop5ClientesQueMenosCompran\ReporteTop5ClientesQueMenosCompran.xss">
+      <DependentUpon>ReporteTop5ClientesQueMenosCompran.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ReporteZapatosMasVendidos\ReporteZapatosMasVendidos.xsc">
+      <DependentUpon>ReporteZapatosMasVendidos.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ReporteZapatosMasVendidos\ReporteZapatosMasVendidos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReporteZapatosMasVendidos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ReporteZapatosMasVendidos\ReporteZapatosMasVendidos.xss">
+      <DependentUpon>ReporteZapatosMasVendidos.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ReporteZapatosMenosVendidos\ReporteZapatosMenosVendidos.xsc">
+      <DependentUpon>ReporteZapatosMenosVendidos.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ReporteZapatosMenosVendidos\ReporteZapatosMenosVendidos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReporteZapatosMenosVendidos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GUI\ListadoDeReportes\ReporteZapatosMenosVendidos\ReporteZapatosMenosVendidos.xss">
+      <DependentUpon>ReporteZapatosMenosVendidos.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\PROVEEDORES\ReporteListadoProoveedores\ReporteListadoProveedores.xsc">
+      <DependentUpon>ReporteListadoProveedores.xsd</DependentUpon>
+    </None>
+    <None Include="GUI\PROVEEDORES\ReporteListadoProoveedores\ReporteListadoProveedores.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReporteListadoProveedores.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GUI\PROVEEDORES\ReporteListadoProoveedores\ReporteListadoProveedores.xss">
+      <DependentUpon>ReporteListadoProveedores.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ico.ico" />
+    <None Include="Resources\Fondox2.png" />
+    <None Include="Resources\report.png" />
+    <None Include="Resources\reportes.png" />
+    <None Include="Resources\eliminar.png" />
+    <None Include="Resources\FACTURACION.png" />
+    <None Include="Resources\cash_icon-icons.com_51090.png" />
+    <None Include="Resources\print-icon.png" />
+    <None Include="Resources\ShoeSoft2.png" />
+    <None Include="Resources\logotipo11.png" />
+    <None Include="Resources\FABRICACION.png" />
+    <None Include="Resources\buscar.png" />
+    <None Include="Resources\provee_eliminar.png" />
+    <None Include="Resources\provee_editar.png" />
+    <None Include="Resources\provee_agregar.png" />
+    <None Include="Resources\prove_buscar.png" />
+    <None Include="Resources\material_modif.png" />
+    <None Include="Resources\material_elim.png" />
+    <None Include="Resources\material_busc.png" />
+    <None Include="Resources\material_agg.png" />
+    <None Include="Resources\producto_modif.png" />
+    <None Include="Resources\producto_elim.png" />
+    <None Include="Resources\producto_busc.png" />
+    <None Include="Resources\producto_agg.png" />
+    <None Include="Resources\btnMateriales.png" />
+    <None Include="Resources\btnProduc.png" />
+    <None Include="Resources\invent_modif.png" />
+    <None Include="Resources\invent_canc.png" />
+    <None Include="Resources\invent_busc.png" />
+    <None Include="Resources\invent_agg.png" />
+    <None Include="Resources\ventas_modif.png" />
+    <None Include="Resources\ventas_elimi.png" />
+    <None Include="Resources\ventas_busc.png" />
+    <None Include="Resources\ventas_agg.png" />
+    <None Include="Resources\compras_modf.png" />
+    <None Include="Resources\compras_elim.png" />
+    <None Include="Resources\compras_busc.png" />
+    <None Include="Resources\compras_agg.png" />
+    <None Include="Resources\fondoDW.png" />
+    <None Include="Resources\dewoman.png" />
+    <None Include="Resources\COMPRAS2.png" />
+    <None Include="Resources\CLIENTES2.png" />
+    <None Include="Resources\cerrar.png" />
+    <None Include="Resources\cancelar.png" />
+    <None Include="Resources\cabecera.png" />
+    <None Include="Resources\buscar_usuario.png" />
+    <None Include="Resources\blue-box-minimizar-icono-5917-128.png" />
+    <None Include="Resources\barra_azul.jpg" />
+    <None Include="Resources\añadir_usuario.png" />
+    <None Include="Resources\acptar.png" />
+    <None Include="Resources\1211795048.png" />
+    <None Include="Resources\wallpaper.jpg" />
+    <None Include="Resources\VENTAS2.png" />
+    <None Include="Resources\USUARIOS2.png" />
+    <None Include="Resources\PROVEEDORES.png" />
+    <None Include="Resources\progress2.jpg" />
+    <None Include="Resources\progress.jpg" />
+    <None Include="Resources\off.png" />
+    <None Include="Resources\modificar_usuario.png" />
+    <None Include="Resources\minimi.png" />
+    <None Include="Resources\logotipo1.png" />
+    <None Include="Resources\logotipo.png" />
+    <None Include="Resources\login2.png" />
+    <None Include="Resources\inventario.png" />
+    <None Include="Resources\ingresar.png" />
+    <None Include="Resources\ingre1.png" />
+    <None Include="Resources\ingre.png" />
+    <None Include="Resources\Fondox.jpg" />
+    <None Include="Resources\fondo.jpg" />
+    <None Include="Resources\eliminar_usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GUI\FACTURAS\" />
+    <Folder Include="GUI\VENTAS\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaLogicaNegocio\CapaLogicaNegocio.csproj">
+      <Project>{e73e5f28-b64c-47a2-97d7-22c013fdf7f1}</Project>
+      <Name>CapaLogicaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

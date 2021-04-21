@@ -1,0 +1,20 @@
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaDeDatos\bin\Debug\MySql.Data.dll
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaDeDatos\bin\Debug\MySql.Data.xml
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Camilo Marin\Downloads\ProyectoInte\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\EQUIPO\Desktop\ProyectoInte\CapaDeDatos\bin\Debug\MySql.Data.xml
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaDeDatos\bin\Debug\MySql.Data.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaDeDatos\bin\Debug\MySql.Data.xml
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Camilo Marin\Desktop\ProyectoInte\CapaDeDatos\obj\Debug\CapaDeDatos.pdb

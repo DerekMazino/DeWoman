@@ -1,0 +1,62 @@
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\bin\Debug\ProyectoInte.exe.config
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\bin\Debug\ProyectoInte.exe
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\bin\Debug\ProyectoInte.pdb
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.csprojResolveAssemblyReference.cache
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.SplashScreen.resources
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.Properties.Resources.resources
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.csproj.GenerateResource.Cache
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.exe
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.pdb
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.Login.resources
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.Principal.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\bin\Debug\ProyectoInte.exe.config
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\bin\Debug\ProyectoInte.exe
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\bin\Debug\ProyectoInte.pdb
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.Login.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.Principal.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.SplashScreen.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.Properties.Resources.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.csproj.GenerateResource.Cache
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.exe
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.pdb
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\bin\Debug\MySql.Data.dll
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\bin\Debug\MySql.Data.xml
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\bin\Debug\MySql.Data.dll
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\bin\Debug\MySql.Data.xml
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.Usuarios.resources
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.CLIENTES.BusClient.resources
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.Clientes.resources
+C:\Users\Javier\documents\visual studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.COMPRAS.Compras.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\bin\Debug\ProyectoInte.exe.config
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\bin\Debug\ProyectoInte.exe
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\bin\Debug\ProyectoInte.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\bin\Debug\MySql.Data.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.csprojResolveAssemblyReference.cache
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.CLIENTES.BusClient.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.Clientes.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.COMPRAS.Compras.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.Login.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.Principal.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.SplashScreen.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.Usuarios.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.Ventas.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.Properties.Resources.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.csproj.GenerateResource.Cache
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.exe
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.Inventario.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.Proveedores.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.INVENTARIO.BuscProducto.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.INVENTARIO.Productos.resources
+C:\Users\EQUIPO\Documents\Visual Studio 2017\Projects\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.INVENTARIO.Materiales.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.CLIENTES.BusClient.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.Clientes.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.COMPRAS.Compras.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.Inventario.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.INVENTARIO.BuscProducto.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.INVENTARIO.Materiales.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.INVENTARIO.Productos.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.Proveedores.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.Usuarios.resources
+C:\Users\Camilo Marin\Downloads\ProyectoInte\ProyectoInte\obj\Debug\ProyectoInte.GUI.Ventas.resources
